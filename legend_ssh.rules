@@ -1,0 +1,1 @@
+alert tcp $EXTERNAL_NET any -> $HOME_NET 22 (msg:"SSH Entrada";flow:stateless; flags:S+; sid:100006927; rev:1;)

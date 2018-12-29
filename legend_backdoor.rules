@@ -1,0 +1,1 @@
+alert tcp $HOME_NET 20034 -> $EXTERNAL_NET any (msg:"BACKDOOR NetBus Pro 2.0 connection established"; flow:from_server,established;flowbits:isset,backdoor.netbus_2.connect; content:"BN|10 00 02 00|"; depth:6; content:"|05 00|"; depth:2; offset:8; classtype:misc-activity; sid:115; rev:9;)
