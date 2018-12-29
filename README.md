@@ -11,4 +11,6 @@ Os logs podem ser enviados para a delegacia de crimes eletrônicos mais próxima
 <br>
 <a href="http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node31.html">Rules 2</a>
 <br>
+<a href="https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/000/142/original/snort_manual.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIXACIED2SPMSC7GA%2F20181229%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20181229T145742Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a3c43d2f20f066315aeb382b9a2c8458a5939a4279927e48c83d94afed24c03">Rules 3</a>
+<br>
 <img src="https://i.ytimg.com/vi/N64fV2-M6NU/maxresdefault.jpg">
