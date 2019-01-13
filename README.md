@@ -30,6 +30,8 @@ sudo pluma /etc/snort/snort.conf
 include $RULE_PATH/legend_ssh.rules
 include $RULE_PATH/legend_backdoor.rules)
 //
+sudo mv /etc/snort/snort.conf /etc/snort/snort.conf-bkp 
+sudo cp snort.conf /etc/snort/
 sudo snort -l /var/log/snort/log -c /etc/snort/snort.conf -A console
 </pre>
 </br>
